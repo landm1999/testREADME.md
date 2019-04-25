@@ -19,10 +19,8 @@ and so on...).
 
 ## Licence
 
-[GPL](https://github.com/landm2000/chrEditor/LICENSE)
-[GPL](LICENSE)
-![GPL](https://raw.githubusercontent.com/landm2000/chrEditor/master/LICENSE)
+![GPLv3](https://raw.githubusercontent.com/landm2000/chrEditor/master/LICENSE)
 
 ## Author
 
-[yoshiharu.kawai](https://github.com/landm2000)
+![yoshiharu.kawai](https://github.com/landm2000)
