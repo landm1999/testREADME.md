@@ -23,4 +23,4 @@ and so on...).
 
 ## Author
 
-![yoshiharu.kawai](https://github.com/landm2000)
+![Yoshiharu Kawai](https://github.com/landm2000)
