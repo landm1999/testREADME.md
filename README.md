@@ -1,5 +1,5 @@
 # chrEditor
-[![GitHub release](https://img.shields.io/badge/chrEditor.svg))][release]
+[![GitHub release](https://img.shields.io/github/release/landm2000/chrEditor.svg)][release]
 [relese]:https://github.com/landm2000/chrEditor/releases  
 Sprite Editor of NES(Nintendo Entertainment System) at Web
 ## Description
