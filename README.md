@@ -19,7 +19,7 @@ https://www.romhacking.net/utilities/119/
 
 ## Licence
 
-[GPL](https://github.com/landm1999/testREADME.md/LICENCE)
+[GPL](https://github.com/landm1999/testREADME.md/LICENSE)
 
 ## Author
 
