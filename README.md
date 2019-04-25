@@ -21,6 +21,7 @@ and so on...).
 
 [GPL](https://github.com/landm2000/chrEditor/LICENSE)
 [GPL](LICENSE)
+[GPL](https://raw.githubusercontent.com/landm1999/testREADME.md/master/LICENSE)
 
 ## Author
 
