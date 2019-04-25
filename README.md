@@ -5,10 +5,10 @@ Sprite Editor of NES(Nintendo Entertainment System) at Web
 at Web System. I'm writing this source code by JavaScript (using React,Bootstrap,
 and so on...).
 ## Demo
-![png](public/img/chrEditor_capture_01.png)
+![png](https://github.com/landm2000/chrEditor/public/img/chrEditor_capture_01.png)
 ## VS. 
-https://wiki.nesdev.com/w/index.php/YY-CHR
-https://www.romhacking.net/utilities/119/
+[site](https://wiki.nesdev.com/w/index.php/YY-CHR)
+[site](https://www.romhacking.net/utilities/119/)
 ## Requirement
 ![svg](https://img.shields.io/badge/React-16.8.5-orange.svg)
 ## Usage
@@ -19,7 +19,7 @@ https://www.romhacking.net/utilities/119/
 
 ## Licence
 
-[GPL](https://github.com/landm1999/testREADME.md/LICENSE)
+[GPL](https://github.com/landm2000/chrEditor/LICENSE)
 
 ## Author
 
