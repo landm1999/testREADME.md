@@ -5,7 +5,7 @@ Sprite Editor of NES(Nintendo Entertainment System) at Web
 at Web System. I'm writing this source code by JavaScript (using React,Bootstrap,
 and so on...).
 ## Demo
-![png](https://github.com/landm2000/chrEditor/public/img/chrEditor_capture_01.png)
+![png](public/img/chrEditor_capture_01.png)
 ## VS. 
 [site](https://wiki.nesdev.com/w/index.php/YY-CHR)
 [site](https://www.romhacking.net/utilities/119/)
@@ -20,6 +20,7 @@ and so on...).
 ## Licence
 
 [GPL](https://github.com/landm2000/chrEditor/LICENSE)
+[GPL](LICENSE)
 
 ## Author
 
