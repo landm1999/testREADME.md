@@ -1,6 +1,6 @@
 # chrEditor
 [![GitHub release](https://img.shields.io/github/release/landm1999/chrEditor.svg)][release]
-[relese]:https://github.com/landm2000/chrEditor/releases  
+[release]:https://github.com/landm2000/chrEditor/releases  
 Sprite Editor of NES(Nintendo Entertainment System) at Web
 ## Description
  This is Sprite Editor (Graphic Editor) for Game of Nintendo Entertainment System
