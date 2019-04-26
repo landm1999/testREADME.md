@@ -7,7 +7,7 @@
 
 [release]: https://github.com/landm1999/testREADME.md/releases
 [travis]: https://travis-ci.org/tcnksm/gcli
-license]: https://github.com/landm2000/README.md/blob/master/LICENSE
+[license]: https://github.com/landm2000/README.md/blob/master/LICENSE
 [godocs]: http://godoc.org/github.com/tcnksm/gcli
 
 Sprite Editor of NES(Nintendo Entertainment System) at Web
