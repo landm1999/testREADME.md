@@ -26,7 +26,7 @@ and so on...).
 ## Licence
 
 ![GPLv3](https://raw.githubusercontent.com/landm2000/chrEditor/master/LICENSE)
-
+![![GPLv3](https://img.shields.io/badge/License-GPLv3-blue)](LICENSE)
 ## Author
 
 ![Yoshiharu Kawai](https://github.com/landm2000)
