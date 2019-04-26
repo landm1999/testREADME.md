@@ -25,8 +25,10 @@ and so on...).
 
 ## Licence
 
-![GPLv3](https://raw.githubusercontent.com/landm2000/chrEditor/master/LICENSE)
-![![svg](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
+![GPLv3](https://raw.githubusercontent.com/landm2000/chrEditor/master/LICENSE)  
+[svg](https://img.shields.io/badge/License-GPLv3-blue.svg)  
+![svg](https://img.shields.io/badge/License-GPLv3-blue.svg)  
+![![svg](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)  
 
 ## Author
 
