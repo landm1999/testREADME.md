@@ -1,12 +1,12 @@
 # chrEditor
 
 [![GitHub release](http://img.shields.io/github/release/landm1999/testREADME.md.svg)][release]
-[![Travis](https://img.shields.io/travis/tcnksm/gcli.svg?style=flat-square)][travis]
+[![Travis](https://img.shields.io/travis/landm1999/README.md.svg)][landm1999]
 [![GPL License](http://img.shields.io/badge/license-GPL-blue.svg)][license]
 [![Go Documentation](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)][godocs]
 
 [release]: https://github.com/landm1999/testREADME.md/releases
-[travis]: https://travis-ci.org/tcnksm/gcli
+[landm1999]: https://travis-ci.org/landm1999/README.md
 [license]: https://github.com/landm2000/README.md/blob/master/LICENSE
 [godocs]: http://godoc.org/github.com/tcnksm/gcli
 
