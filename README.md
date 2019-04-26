@@ -1,13 +1,13 @@
 # chrEditor
 
 [![GitHub release](http://img.shields.io/github/release/landm1999/testREADME.md.svg)][release]
- [![Travis](https://img.shields.io/travis/tcnksm/gcli.svg?style=flat-square)][travis]
-[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)][license]
+[![Travis](https://img.shields.io/travis/tcnksm/gcli.svg?style=flat-square)][travis]
+[![GPL License](http://img.shields.io/badge/license-GPL-blue.svg)][license]
 [![Go Documentation](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)][godocs]
 
 [release]: https://github.com/landm1999/testREADME.md/releases
 [travis]: https://travis-ci.org/tcnksm/gcli
-[license]: https://github.com/tcnksm/gcli/blob/master/LICENSE
+license]: https://github.com/landm2000/README.md/blob/master/LICENSE
 [godocs]: http://godoc.org/github.com/tcnksm/gcli
 
 Sprite Editor of NES(Nintendo Entertainment System) at Web
