@@ -18,8 +18,9 @@ and so on...).
 
 ## VS. 
 
-![site](https://wiki.nesdev.com/w/index.php/YY-CHR)  
-![site](https://www.romhacking.net/utilities/119/)
+![YY-CHR](https://wiki.nesdev.com/w/index.php/YY-CHR)
+![YY-CHR](https://www.romhacking.net/utilities/119/)
+: Graphic Editor for NES, SNES, PCE, GB/C, etc...(Windows)
 
 ## Requirement
 
