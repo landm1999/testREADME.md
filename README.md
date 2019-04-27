@@ -40,8 +40,8 @@ and so on...).
 
 ## Contribution
 
-1. I need 8bit free fonts (Make the fonts, please)
-1. I need 8bit free mario character (Make the free mario character, plese)
+1. I need a free font (Make an 8-bit font, please).
+1. I need a free character (Make an 8-bit free character like Mario, please).
 
 ## Licence
 
