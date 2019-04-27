@@ -1,7 +1,7 @@
 # chrEditor
 
-![![GitHub release](http://img.shields.io/github/release/landm1999/testREADME.md.svg)][release]
-![![GPL License](http://img.shields.io/badge/license-GPLv3-blue.svg)][license]
+[![GitHub release](http://img.shields.io/github/release/landm1999/testREADME.md.svg)][release]
+[![GPL License](http://img.shields.io/badge/license-GPLv3-blue.svg)][license]
 
 [release]: https://github.com/landm1999/testREADME.md/releases
 [license]: https://raw.githubusercontent.com/landm2000/chrEditor/master/LICENSE
