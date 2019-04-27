@@ -24,8 +24,10 @@ and so on...).
 
 ## Requirement
 
-![svg](https://img.shields.io/badge/React-16.8.5-orange.svg)
-![svg](https://img.shields.io/badge/Bootstrap-3.3.1-cyan.svg)
+![svg](https://img.shields.io/badge/npm-5.6.0-brightgreen.svg)
+![svg](https://img.shields.io/badge/Node.js-8.9.4-orange.svg)
+![svg](https://img.shields.io/badge/React-16.8.5-blue.svg)
+![svg](https://img.shields.io/badge/Bootstrap-3.3.1-red.svg)
 ![svg](https://img.shields.io/badge/jQuery-1.12.4-yellow.svg)
 
 ## Usage
