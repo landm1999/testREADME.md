@@ -38,6 +38,8 @@ and so on...).
 
 ## Licence
 
+[![GPLv3 License](http://img.shields.io/badge/license-GPLv3-lime.svg)][license]
+
 [license]: https://raw.githubusercontent.com/landm2000/chrEditor/master/LICENSE
 
 ## Author
