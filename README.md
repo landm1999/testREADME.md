@@ -3,8 +3,8 @@
 [![GitHub release](http://img.shields.io/github/release/landm1999/testREADME.md.svg)][release]
 [![GPL License](http://img.shields.io/badge/license-GPLv3-blue.svg)][license]
 
-[release]: !https://github.com/landm1999/testREADME.md/releases
-[license]: !https://raw.githubusercontent.com/landm2000/chrEditor/master/LICENSE
+[release]: https://github.com/landm1999/testREADME.md/releases
+[license]: https://raw.githubusercontent.com/landm2000/chrEditor/master/LICENSE
 
 Sprite Editor of NES(Nintendo Entertainment System) at Web
 ## Description
@@ -29,6 +29,9 @@ and so on...).
 ![svg](https://img.shields.io/badge/jQuery-1.12.4-yellow.svg)
 
 ## Usage
+
+[verse]
+$ npm start [Enter]
 
 ## Install
 
