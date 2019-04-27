@@ -30,7 +30,7 @@ and so on...).
 
 ## Usage
 
-    $ npm start &crarr;
+    $ npm start [Enter]
 
 ## Install
 
