@@ -30,7 +30,7 @@ and so on...).
 
 ## Usage
 
-    $ npm start [Enter]
+    $ npm start ![svg](https://img.shields.io/badge/Enter.svg)
 
 ## Install
 
