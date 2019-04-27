@@ -34,7 +34,12 @@ and so on...).
 
 ## Install
 
+    $ git clone https://github.com/landm2000/chrEditor [Enter]
+
 ## Contribution
+
+1. I need 8bit free fonts (Make the fonts, please)
+1. I need 8bit free mario character (Make the free mario character, plese)
 
 ## Licence
 
