@@ -40,8 +40,12 @@ and so on...).
 
 ## Contribution
 
-1. I need a free font (Make an 8-bit font, please).
+1. ~~I need a free font (Make an 8-bit font, please).~~
 1. I need a free character (Make an 8-bit free character like Mario, please).
+
+[![Misaki gothic katakana](public/img/documents/misaki_gothic_ASCII_katakana.png)][misaki_gothic_katakana]
+
+[misaki_gothic_katakana]: public/data/misaki_gothic_katakana.chr
 
 ## Licence
 
